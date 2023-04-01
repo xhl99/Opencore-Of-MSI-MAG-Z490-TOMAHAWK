@@ -1,5 +1,8 @@
 # Opencore-Of-MSI-MAG-Z490-TOMAHAWK
-OpenCore Efi File
+```yaml 
+OC version: 0.9.0
+OS version: Ventura 13.3
+```
 # Device Description
   |Department|Content|
   | --- | --- |
